@@ -2,10 +2,10 @@
 /* CSS Document */
 html, body{
 	margin:0px;
-    padding:0px;
+        padding:0px;
 	height:100%;
 	width:100%;
-	overflow:hidden;
+	/*overflow:hidden;*/
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
