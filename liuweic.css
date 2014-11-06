@@ -1,0 +1,185 @@
+@charset "utf-8";
+/* CSS Document */
+html, body{
+	margin:0px;
+    padding:0px;
+	height:100%;
+	width:100%;
+	/*overflow:hidden;*/
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#box {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	width:100%;
+}
+
+#menu{
+	height:10%;
+	padding-left:10%;
+	padding-right:10%;
+	background-color:#000;
+	width:80%;
+}
+
+#menu h2{
+	color:#FFF;
+	float:left;
+}
+
+#list{
+	float:right;
+	list-style:none;
+	margin-top:0px;
+	display:block;
+}
+
+#list li{
+	text-align:center;
+	float:left;
+	width:120px;
+	line-height:80px;
+}
+
+#list li a{
+	display:block;
+}
+
+#list li a:link{
+	color:#FFF;
+	text-decoration:none;
+}
+
+#list li a:hover{
+	background-color:#900;
+	color:#CCC;
+}
+
+#id0{
+	margin:0px;
+	height:90%;
+	/*background-image:url(imgs/bg2.JPG);*/
+	background-color:#600;
+}
+
+#id0 .topic{
+	display:block;
+	margin:auto;
+	text-align:center;
+	font-size:45px;
+	color:#fff;	
+}
+
+.topic{
+	display:block;
+	margin:auto;
+	text-align:center;
+	font-size:45px;
+	color:#000;
+}
+
+.subTitle{
+	display:block;
+	margin:auto;
+	text-align:center;
+	font-size:18px;
+	color:#999;
+}
+
+#id1{
+	margin:0px;
+	height:100%;
+	background-color:#FFF;
+}
+
+#id1 .tit{
+	height:10%;
+	background-color:#FFF;
+}
+
+#photo{
+	text-align:center;
+	height:35%;
+	background-color:#FFF;
+}
+
+#photo img{
+	height:90px;
+	width:90px;
+}
+
+.conTit{
+	font-size:24px;
+	display:block;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.conSubtit{
+	color:#999;
+	font-size:18px;
+	display:block;
+}
+
+.content{
+	display:block;
+	line-height:30px;
+}
+
+#aboutMe{
+	background-color:#000;
+	height:40%;
+	padding-left:10%;
+	padding-right:10%;
+}
+
+.skill{
+	color:#CCC;
+	float:left;
+	width:25%;
+	margin-top:25px;
+	text-align:center;
+}
+
+#skill1{
+	font-size:24px;
+	font-family:"Lucida Console", Monaco, monospace;
+	line-height:40px;
+}
+
+#skill2{
+	font-size:24px;
+	font-family:"Lucida Console", Monaco, monospace;
+	line-height:40px;
+}
+
+#skill3{
+	font-size:24px;
+	font-family:"Lucida Console", Monaco, monospace;
+	line-height:40px;
+}
+
+#skill4{
+	font-size:24px;
+	font-family:"Lucida Console", Monaco, monospace;
+	line-height:40px;
+}
+
+#id2{
+	margin:0px;
+	height:100%;;
+	background-color:#336;
+}
+
+#id3{
+	margin:0px;
+	height:100%;
+	background-color:#030;
+}
+
+#id4{
+	margin:0px;
+	height:100%;
+	background-color:#FFF;
+}
